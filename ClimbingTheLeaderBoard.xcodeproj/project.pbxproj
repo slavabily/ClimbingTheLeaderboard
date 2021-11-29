@@ -23,7 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		F93451532753BC6F005238D9 /* Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F93451532753BC6F005238D9 /* ClimbingTheLeaderBoard */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ClimbingTheLeaderBoard; sourceTree = BUILT_PRODUCTS_DIR; };
 		F93451562753BC6F005238D9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -41,7 +41,7 @@
 		F934514A2753BC6F005238D9 = {
 			isa = PBXGroup;
 			children = (
-				F93451552753BC6F005238D9 /* Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard */,
+				F93451552753BC6F005238D9 /* ClimbingTheLeaderboard */,
 				F93451542753BC6F005238D9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,25 +49,25 @@
 		F93451542753BC6F005238D9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F93451532753BC6F005238D9 /* Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard */,
+				F93451532753BC6F005238D9 /* ClimbingTheLeaderBoard */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F93451552753BC6F005238D9 /* Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard */ = {
+		F93451552753BC6F005238D9 /* ClimbingTheLeaderboard */ = {
 			isa = PBXGroup;
 			children = (
 				F93451562753BC6F005238D9 /* main.swift */,
 			);
-			path = "Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard";
+			path = ClimbingTheLeaderboard;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F93451522753BC6F005238D9 /* Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard */ = {
+		F93451522753BC6F005238D9 /* ClimbingTheLeaderBoard */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F934515A2753BC6F005238D9 /* Build configuration list for PBXNativeTarget "Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard" */;
+			buildConfigurationList = F934515A2753BC6F005238D9 /* Build configuration list for PBXNativeTarget "ClimbingTheLeaderBoard" */;
 			buildPhases = (
 				F934514F2753BC6F005238D9 /* Sources */,
 				F93451502753BC6F005238D9 /* Frameworks */,
@@ -77,9 +77,9 @@
 			);
 			dependencies = (
 			);
-			name = "Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard";
+			name = ClimbingTheLeaderBoard;
 			productName = "Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard";
-			productReference = F93451532753BC6F005238D9 /* Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard */;
+			productReference = F93451532753BC6F005238D9 /* ClimbingTheLeaderBoard */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -96,7 +96,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F934514E2753BC6F005238D9 /* Build configuration list for PBXProject "Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard" */;
+			buildConfigurationList = F934514E2753BC6F005238D9 /* Build configuration list for PBXProject "ClimbingTheLeaderBoard" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -109,7 +109,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F93451522753BC6F005238D9 /* Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard */,
+				F93451522753BC6F005238D9 /* ClimbingTheLeaderBoard */,
 			);
 		};
 /* End PBXProject section */
@@ -266,7 +266,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F934514E2753BC6F005238D9 /* Build configuration list for PBXProject "Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard" */ = {
+		F934514E2753BC6F005238D9 /* Build configuration list for PBXProject "ClimbingTheLeaderBoard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F93451582753BC6F005238D9 /* Debug */,
@@ -275,7 +275,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F934515A2753BC6F005238D9 /* Build configuration list for PBXNativeTarget "Climbing the Leaderboard  Climbing the Leaderboard  Climbing the Leaderboard  ClimbingTheLeaderboard" */ = {
+		F934515A2753BC6F005238D9 /* Build configuration list for PBXNativeTarget "ClimbingTheLeaderBoard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F934515B2753BC6F005238D9 /* Debug */,
